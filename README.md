@@ -29,8 +29,8 @@ This project demonstrates a system for detecting red light violations using comp
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/4prince8/Traffic Red_Light_Violation_Detection_OCR.git
-    cd traffic-light-license-plate-detection
+    git clone https://github.com/4prince8/Traffic_Red_Light_Violation_Detection_OCR.git
+    cd Traffic_Red_Light_Violation_Detection_OCR
     ```
 
 2. **Install the required packages:**
