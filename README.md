@@ -29,7 +29,7 @@ This project demonstrates a system for detecting red light violations using comp
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/4price8/Traffic Red_Light_Violation_Detection_OCR.git
+    git clone https://github.com/4prince8/Traffic Red_Light_Violation_Detection_OCR.git
     cd traffic-light-license-plate-detection
     ```
 
@@ -54,8 +54,8 @@ This project demonstrates a system for detecting red light violations using comp
 ## Configuration
 
 - **Traffic Light Timing:**
-  > [!NOTE]
-  > You can change Timing.
+
+   You can change Timing.
 
     ```python
     light_timing = {
@@ -66,8 +66,8 @@ This project demonstrates a system for detecting red light violations using comp
     ```
 
 - **Tesseract Configuration:**
-  > [!IMPORTANT]
-  > Put your `path` in the part below.
+
+   Put your `path` in the part below.
 
     ```python
     pytesseract.pytesseract.tesseract_cmd = r'YOUR_PATH\Tesseract-OCR\tesseract.exe'
@@ -75,8 +75,8 @@ This project demonstrates a system for detecting red light violations using comp
     ```
 
 - **Video Path:**
-  > [!IMPORTANT]
-  > Put your Video Path instead of `Test_DIP_Proj.mp4`.
+
+   Put your Video Path instead of `Test_DIP_Proj.mp4`.
 
     ```python
     # Read video from file
